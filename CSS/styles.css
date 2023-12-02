@@ -42,10 +42,19 @@ body{
 button {
     padding: 10px 20px;
     margin: 0 5px;
-    font-size: 16px;
+    font-size: 20px;
     cursor: pointer;
 }
+.link a {
+    color: #2de038;
+    font-size: 30px;
+  }
 
+  @media only screen and (max-width: 600px) {
+    .link a {
+      font-size: 20px; 
+    }
+  }
 p {
     margin-top: 10px;
     font-size: 14px;

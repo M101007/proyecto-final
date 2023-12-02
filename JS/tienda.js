@@ -167,6 +167,592 @@ const product = [
     marca: "CARVAL",
     disponibilidad: "disponible",
   },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 12,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 13,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 14,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 15,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 16,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 17,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 18,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 19,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 20,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 21,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 22,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 23,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 24,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 25,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 26,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 27,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 28,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 29,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 30,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 31,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 32,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 34,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 35,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 36,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 37,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 38,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 39,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 40,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 41,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 42,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 43,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 44,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 46,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 47,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 48,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 49,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 50,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 51,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  },
+  {
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVaRFnlpwLQoOzu3_9tBqhuwujvzTK-g719d5AF5VKhG2rMGmA8l2jrnX218c9tFwql4&usqp=CAU",
+    id: 52,
+    producto: "PRETAB 20 MG BLISTER X 10 TAB",
+    descripcion:
+      "En perros y gatos para el reemplazo de la actividad de los glucocorticoides en pacientes con insuficiencia adrenal",
+    precio: 18000,
+    Beneficios:
+      "Atua como agente antiinflamatorio e inmunosupresivo.como agente antiinflamatorio e inmunosupresivo.",
+    caracteriticas:
+      "Contenido: Vitamina B1 1500 mg Vitamina B2 1500 mg Vitamina B6 1200 mg Vitamina B12 15000 mcg Vitamina K 250 mg 	Pantotenato de Cálcio 1200 mg Ác",
+    marca: "CARVAL",
+    disponibilidad: "disponible",
+  }
+
 ];
 
 // Function to generate HTML for each product
