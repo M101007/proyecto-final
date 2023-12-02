@@ -6,10 +6,11 @@
 }
 
 body{
-    margin: 30px;
+    margin: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #333;
     box-sizing: border-box;
+    background-color: #1970c1;
     background-color: #ffffff;
 }
 .item {
@@ -153,11 +154,10 @@ header nav a:hover {
 }
 
 .info-product{
-    padding: 15px 30px;
-    line-height: 2;
+    padding: auto 30px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
 }
 
 .price{
@@ -170,7 +170,7 @@ header nav a:hover {
     background: none;
     background-color: #000;
     color: #fff;
-    padding: 15px 10px;
+    padding: auto 10px;
     cursor: pointer;
 }
 nav {
@@ -339,4 +339,7 @@ textarea{
     textarea {
       width: 100%; 
     }
+  }
+  product{
+
   }
