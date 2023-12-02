@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="/CSS/styles.css">
+</head>
+<body>
+    
+    <header>
+        <h1>Veterinaria Kanú</h1>
+    </header>
+    <nav>
+        <button class="link"><a  href="/bienvenido.html" target="_blank">Ir a la pagina de los productos</a></button>
+        <a href="#">ALIMENTO</a>
+        <a href="#">SNACKS</a>
+        <a href="#">BELLEZA E HIGIENE</a>
+        <a href="#">COMPLEMENTOS Y ACCESORIOS</a>
+        <a href="#">JUGUETES</a>
+        <a href="#">MEDICAMENTOS</a>
+        <a href="#">RESERVAR CITA</a>
+    </nav>
+    <div class="container-items" id="productContainer">
+        
+    </div>
+    <div id="detalleContainer"></div>
+    <div id="pagination">
+        <button onclick="anteriorPagina()">Anterior</button>
+        <span id="paginaActual">1</span>
+        <button onclick="siguientePagina()">Siguiente</button>
+        <p>Total de elementos: <span id="totalElementos"></span></p>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <!-- Texto -->
+            <div class="footer-text">
+                <p>Síguenos:</p>
+                <p>Encuentra tu local</p>
+                <p>Selecciona tu tienda</p>
+                <p>Acerca de Kanú</p>
+            </div>
+
+            <!-- Contenedor de íconos -->
+            <div class="icon-container">
+                <i class='bx bxl-facebook-square facebook-icon'></i>
+                <i class='bx bxl-whatsapp-square whatsapp-icon'></i>
+                <i class='bx bxl-instagram-alt instagram-icon'></i>
+                <i class='bx bx-help-circle help-icon'></i> <!-- Icono para preguntas frecuentes -->
+                <i class='bx bx-calendar event-icon'></i> <!-- Icono para citas veterinarias -->
+            </div>
+        </div>
+    </footer>
+
+    
+    <script src="/JS/tienda.js"></script>
+    <script src="/JS/index.js"></script>
+    
+</body>
+</html>
